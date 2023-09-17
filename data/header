@@ -1,0 +1,16 @@
+<link rel="stylesheet" type="text/css" href="/style.css" />
+<meta charset="UTF-8" />
+
+<div style="display:inline-flex;">
+<img src="/images/US.png" style="width:8em;height:8em;padding-right:5px;" alt="[KDLP] logo" />
+<h1 class="title" >Underground Software</h1>
+</div>
+
+<hr>
+<div class="nav">
+	<a class="nav" href="/index.md">Home</a>
+	<a class="nav" href="kdlp.underground.software>KDLP</a>
+	<a class="nav" href="/watchdog">Watchdog</a>
+	<a class="nav" href="/game">Game</a>
+</div>
+<hr>
